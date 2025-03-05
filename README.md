@@ -1,7 +1,7 @@
 # BriefAI
 
 ## 🚀 Overview
-BriefAI is an AI-powered tool that generates concise and high-quality summaries from lengthy articles, research papers, and news reports. It helps users save time and extract key insights efficiently.
+BriefAI is an AI-powered website that generates concise and high-quality summaries from lengthy articles, research papers, and news reports. It helps users save time and extract key insights efficiently.
 
 ## 🔥 Features
 - 📄 Summarizes blog posts, research papers, and news articles
